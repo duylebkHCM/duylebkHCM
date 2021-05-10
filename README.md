@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Duy
 #### I'm a CS student at VNU HCM University of Technology. 
-![I'm a CS student at VNU HCM University of Technology. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a CS student at VNU HCM University of Technology. ](https://github.com/duylebkHCM/duylebkHCM/blob/main/banner_github.png)
 
 I love math and coding. I like doing research in computer vision such as medical imaging, GAN, ... .   
 
