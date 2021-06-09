@@ -4,7 +4,7 @@
 
 I love math and coding. I like doing research in computer vision such as medical imaging, GAN, ... .   
 
-Skills: PYTHON / PYTORCH / TENSORFLOW / KERAS / WEB BACKEND / MONGODB
+Skills: PYTHON / PYTORCH / TENSORFLOW / KERAS / WEB BACKEND / JAVA/ MONGODB
 
 - 🔭 I’m currently working on this page. 
 
