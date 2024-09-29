@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Duy
-#### I'm a CS student at VNU HCM University of Technology. 
-![I'm a CS student at VNU HCM University of Technology. ](https://github.com/duylebkHCM/duylebkHCM/blob/main/banner_github.png)
+#### I'm an AI researcher. 
+![I'm an AI researcher](https://github.com/duylebkHCM/duylebkHCM/blob/main/banner_github.png)
 
-I love math and coding. I like doing research in computer vision such as medical imaging, GAN, ... .   
+I am currently focusing on generative modeling (diffusion, text-to-image problem).
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/>
